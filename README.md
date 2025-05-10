@@ -1,6 +1,6 @@
  # Ex.No:6.2 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 ### Name: SANJAY KUMAR .B
-### Register Number: 212224230265
+### Register Number: 212224230242
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
 
